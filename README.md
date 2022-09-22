@@ -1,2 +1,1 @@
-# Sales-Retail-
-Sales Retail Using Tableau
+# Sales Retail Using Tableau.
